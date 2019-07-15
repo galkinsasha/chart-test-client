@@ -1,0 +1,1 @@
+export const UPDATE_CHART_DATA = 'update_chart_data'
